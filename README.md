@@ -15,7 +15,7 @@ I started developing a Youtube video downloader in Java (in the main backend API
 
 Then started to develop an Python API that responses in approximately 2 seconds, but had some trouble deploying it and integrating it.
 
-I already have the Python API deployed, just need to handle the audio file in UI and play it, but im out of time right now.
+I already have the Python API deployed, just need to handle the audio file in the UI and play it, but im out of time right now.
 I'll keep working on the project over the weekend to complete every checkpoint, and updating this README.MD with any news that i have on this proyect.
 
 I apologize for don't having the mini proyect on time, as i wanted to deliver to you, and thank you for the opportunity.
