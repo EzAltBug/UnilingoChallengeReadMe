@@ -1,5 +1,11 @@
 # Unilingo Challenge - Ezequiel Altamirano
 
+## UPDATE - 13/11
+Challenge is fully operational, with all its functionalities ready to test!
+I stay alert for any news
+
+## First deploy - 10/11
+
 Hi! Here i will explain what i have done until today in this little proyect.
 Here's the [URL](https://lucky-pixie-a4b93c.netlify.app) to the proyect.
 
